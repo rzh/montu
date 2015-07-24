@@ -14,5 +14,5 @@ Hackathon project: a terminal based cluster monitor for MongoDB
 ## dashboard
 ![Dashboard screen](https://raw.githubusercontent.com/rzh/montu/master/doc/montu_dashboard.png)
 
-# how ton setup & run
+# how to setup & run
 to be added
