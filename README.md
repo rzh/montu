@@ -2,6 +2,9 @@
 Hackathon project: a terminal based cluster monitor for MongoDB
 
 # screenshoot
+## demo
+![Demo](https://raw.githubusercontent.com/rzh/montu/master/doc/montu_demo.gif)
+
 ## flash screen
 ![Intro flash screen](https://raw.githubusercontent.com/rzh/montu/master/doc/montu_flashscreen.png)
 
