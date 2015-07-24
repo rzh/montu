@@ -6,11 +6,13 @@ Hackathon project: a terminal based cluster monitor for MongoDB
 ![Intro flash screen](https://raw.githubusercontent.com/rzh/montu/master/doc/montu_flashscreen.png)
 
 ## main view
-![Intro flash screen](https://github.com/rzh/montu/blob/master/doc/montu_main.png)
+![Main view screen](https://github.com/rzh/montu/blob/master/doc/montu_main.png)
 
 ## snapshot view
-![Intro flash screen](https://raw.githubusercontent.com/rzh/montu/master/doc/montu_snapshoot.png)
+![Snapshot view screen](https://raw.githubusercontent.com/rzh/montu/master/doc/montu_snapshoot.png)
 
+## dashboard
+![Dashboard screen](https://raw.githubusercontent.com/rzh/montu/master/doc/montu_dashboard.png)
 
 # how to run
 tba
